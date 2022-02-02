@@ -6,5 +6,4 @@ public interface LogClient {
     void end(String processId);
     /* print all processes sort by start time*/
     void poll();
-
 }
